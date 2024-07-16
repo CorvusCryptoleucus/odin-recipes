@@ -1,14 +1,29 @@
 body {
-    background-color: cornsilk;
+    background-color: floralwhite;
 }
 
-h1 {
-    color:darkred;
+h1,
+h2,
+h3 {
+    color: darkred;
     font-weight: bolder;
     font-size: larger;
 }
 
 ul,
 ol {
+    list-style: none;
+}
 
+a,
+a:visited,
+.ul-index {
+    text-decoration: none;
+    color: green;
+}
+
+a:hover,
+a:active,
+.ul-index:hover {
+    color: darkred;
 }
