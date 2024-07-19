@@ -1,0 +1,34 @@
+# Projects
+    - [ ] **Expand and Update Odin Recipes**
+        - [ ] Create CSS Style
+        - [ ] Update index.html
+        - [x] Create a page for Palestinian Hummus
+        - [x] Create a page for Palestinian Pita Bread
+        - [x] Create a page for Palestinian Falafel
+        - [x] Create a page for About Palestinian Cuisine
+        - [x] Create a page for Veganism in Palestinian Cooking
+        - [x] Create a page for Essential Ingredients
+        - [ ] Create a page for Palestinian Stuffed Squash (Kousa Mahshi)
+        - [ ] Create a page for Baba Ghanoush
+        - [ ] Create a page for Mutabbal
+        - [ ] Create a page for Palestinian Pickles (Mukhalal)
+        - [ ] Create a page for Tabbouleh
+        - [ ] Create a page for Salatah Arabiyeh
+        - [ ] Create a page for Fattoush
+        - [ ] Create a page for Stuffed Grape Leaves (Warak Enab)
+        - [ ] Create a page for Falafel Salad with Tahini Dressing
+        - [ ] Create a page for Lentil Soup (Shorbat Adas)
+        - [ ] Create a page for Fasolia (Green Bean Stew)
+        - [ ] Create a page for Maghmour (Eggplant and Chickpea Stew)
+        - [ ] Create a page for Freekeh Soup (Green Wheat Soup)
+        - [ ] Create a page for Mujadara
+        - [ ] Create a page for Makloubeh
+        - [ ] Create a page for Kousa Mahshi
+        - [ ] Create a page for Musakhan Rolls
+        - [ ] Create a page for Palestinian Pita Bread with Za'atar and Olive Oil
+        - [ ] Create a page for Za'atar Bread
+        - [ ] Create a page for Manakeesh
+        - [ ] Create a page for Fatayer (Spinach Pies)
+        - [ ] Create a page for Fresh Fruit Platters
+        - [ ] Create a page for Date-filled Cookies (Ma'amoul)
+        - [ ] Create a page for Palestinian Stuffed Squash (Kousa Mahshi)
