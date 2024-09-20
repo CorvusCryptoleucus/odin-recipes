@@ -1,17 +1,21 @@
 /* Import Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=MedievalSharp&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap');
 
 body {
     background-color: #f9f4e1; /* Light beige color for old paper */
-    font-family: 'Cinzel', serif; /* Ancient Norse font for body text */
+    font-family: 'Cinzel', serif; /* Default font for text */
     color: #333; /* Dark gray text for readability */
     line-height: 1.6; /* Improved line spacing */
     margin: 0; /* Remove default margin */
     padding: 20px; /* Add padding */
 }
 
+h1, h2, h3 {
+    font-family: 'MedievalSharp', cursive; /* Font for headings */
+}
+
 h1 {
-    font-family: 'MedievalSharp', cursive; /* Medieval font for headings */
     font-size: 2.5em; /* Larger heading size */
     text-align: center; /* Centered heading */
     margin-bottom: 20px; /* Space below heading */
@@ -31,9 +35,32 @@ ul, ol {
     margin: 10px 0 20px 20px; /* Space around lists */
 }
 
+/* Image styles */
 img {
     max-width: 100%; /* Responsive images */
     height: auto; /* Maintain aspect ratio */
     display: block; /* Center images */
-    margin: 0 auto; /* Center images */
+    margin: 0; /* Remove default margin */
+}
+
+/* Flexbox layout for images and text */
+.recipe-container {
+    display: flex; /* Use flexbox for layout */
+    flex-wrap: wrap; /* Allow wrapping */
+    align-items: flex-start; /* Align items to the start */
+}
+
+.recipe-container img {
+    margin-right: 20px; /* Space between image and text */
+}
+
+@media (max-width: 768px) {
+    .recipe-container {
+        flex-direction: column; /* Stack items in a column on small screens */
+    }
+
+    .recipe-container img {
+        margin-right: 0; /* Remove margin for small screens */
+        margin-bottom: 10px; /* Add space below image */
+    }
 }
