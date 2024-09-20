@@ -1,0 +1,39 @@
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=MedievalSharp&display=swap');
+
+body {
+    background-color: #f9f4e1; /* Light beige color for old paper */
+    font-family: 'Cinzel', serif; /* Ancient Norse font for body text */
+    color: #333; /* Dark gray text for readability */
+    line-height: 1.6; /* Improved line spacing */
+    margin: 0; /* Remove default margin */
+    padding: 20px; /* Add padding */
+}
+
+h1 {
+    font-family: 'MedievalSharp', cursive; /* Medieval font for headings */
+    font-size: 2.5em; /* Larger heading size */
+    text-align: center; /* Centered heading */
+    margin-bottom: 20px; /* Space below heading */
+}
+
+h2 {
+    font-size: 1.75em; /* Subheading size */
+    margin-top: 20px; /* Space above subheading */
+    margin-bottom: 10px; /* Space below subheading */
+}
+
+p {
+    margin: 10px 0; /* Space above and below paragraphs */
+}
+
+ul, ol {
+    margin: 10px 0 20px 20px; /* Space around lists */
+}
+
+img {
+    max-width: 100%; /* Responsive images */
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Center images */
+    margin: 0 auto; /* Center images */
+}
